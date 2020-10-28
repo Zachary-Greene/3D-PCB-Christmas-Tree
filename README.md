@@ -6,11 +6,11 @@ This is a repository for my 3D free standing PCB christmas tree project. It is t
 Solder the smallest components on the boards first otherwise it'll be harder if you solder the bigger parts first. Then solder the larger components such as the battery holder. Afterwards, solder the two boards together with a strong connection, to prevent the solder from dripping down the board, put them on their sides so that they form a 'V' shape then solder.
 
 ### Parts
-* ATtiny85 SOP Package x1
-* CR2032 Coin Cell Battery x1
+* ATtiny85 SOP Package Digikey ATTINY85-20SURCT-ND x1
+* CR2032 Coin Cell Holder Core Electronics/Sparkfun PRT-00783 x1
 * CR2032 Coin Cell x1
-* APA102C-5050 RGB LED x11
-* 1K Ohm Resistor x1
+* APA102C-5050 RGB LED Core Electronics/Sparkfun COM-16345 x11
+* 0603 (Metric) 1K Ohm Resistor Digikey 311-1KMCT-ND x1
 
 
 ## License
